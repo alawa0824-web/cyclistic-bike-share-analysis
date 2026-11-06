@@ -53,6 +53,7 @@ Strategic Recommendations
 3. Seasonal Membership Passes:
 * Offer flexible "Spring/Summer Seasonal Passes" or trial bundles starting in April to capture warm-weather casual demand and gradually transition them into full annual memberships.
 
----
-
-Repository Structure
+## Repository Structure
+- Cyclistic Bike-Share Analysis.docx — Full academic report.
+- cyclistic_analysis.ipynb — Python data analysis notebook.
+- README.md — Project documentation.
